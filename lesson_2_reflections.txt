@@ -12,10 +12,16 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	You can see the differences between the files in the staging area and on the working directory directly. This ensures you have one major logical change before you commit.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	
+	You can create a branch when you're working on an experimental feature, for example. Branches would help to keep the main program seperagte from the experimental program until it is ready to be incorporated into the main program.
 
 How do the diagrams help you visualize the branch structure?
+
+	Diagrams help you trace back the parent commit and allow one to map out th reachability of each branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
