@@ -1,6 +1,8 @@
+Jay Beckham
+
 What happens when you initialize a repository? Why do you need to do it?
 
-	it creates a hidden directory called .git which hold information. You need to do it to so that the first commit can be completed.
+	it creates a hidden directory called .git which holds information. You need to do it to so that the first commit can be completed.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
