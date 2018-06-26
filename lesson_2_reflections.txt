@@ -26,5 +26,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	We merge two branches together to bring in major changes between two branches to create a new "master" branch label. We represent branches with backwards pointing arrows to indicate the "parent" of each branch and to show that two merged branches have two different parents.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
